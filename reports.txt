@@ -1,0 +1,21 @@
+-> Driver Mihai Curac with ID 1 has paid the Speeding fine with ID 1 in the amount of 155.0 issued by police station Sectia 2 Cluj-Napoca.
+The driver's address is Iuliu Maniu 1 , their driver's license ID is 143243253241 and their identity card number is 5020523524353.
+The police station's address is 22 Decembrie 1989 and its phone number is 0712421419.
+-> Driver Andrei Pop with ID 2 has not yet paid the Tailgating fine with ID 2 in the amount of 500.0 issued by police station Sectia 2 Cluj-Napoca.
+The driver's address is Baritiu 66 , their driver's license ID is 235235235254 and their identity card number is 3242352352355.
+The police station's address is 22 Decembrie 1989 and its phone number is 0712421419.
+-> Driver Andrei Pop with ID 2 has paid the Running a Red Light fine with ID 3 in the amount of 1750.0 issued by police station Sectia 3 Baia Mare.
+The driver's address is Baritiu 66 , their driver's license ID is 235235235254 and their identity card number is 3242352352355.
+The police station's address is Iuliu Maniu and its phone number is 0891489178.
+-> Driver Mircea Popescu with ID 4 has paid the Tailgating fine with ID 4 in the amount of 450.0 issued by police station Sectia 2 Cluj-Napoca.
+The driver's address is Traian 189 , their driver's license ID is 235423523 and their identity card number is 457457457.
+The police station's address is 22 Decembrie 1989 and its phone number is 0712421419.
+-> Driver Test with ID 5 has paid the Speeding fine with ID 5 in the amount of 1450.0 issued by police station Sectia 3 Baia Mare.
+The driver's address is Test 189 , their driver's license ID is 4363466 and their identity card number is 53456346.
+The police station's address is Iuliu Maniu and its phone number is 0891489178.
+-> Driver Mircea Popescu with ID 4 has paid the Tailgating fine with ID 6 in the amount of 4150.0 issued by police station Sectia 2 Cluj-Napoca.
+The driver's address is Traian 189 , their driver's license ID is 235423523 and their identity card number is 457457457.
+The police station's address is 22 Decembrie 1989 and its phone number is 0712421419.
+-> Driver Test with ID 5 has not yet paid the Running a Red Light fine with ID 7 in the amount of 1000.0 issued by police station Sectia 2 Cluj-Napoca.
+The driver's address is Test 189 , their driver's license ID is 4363466 and their identity card number is 53456346.
+The police station's address is 22 Decembrie 1989 and its phone number is 0712421419.
